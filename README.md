@@ -1,6 +1,10 @@
 # SamplesAR
-This repository contains AFrame and AR.js examples used in Wikiversity as Learning resource
+This repository contains AFrame and AR.js examples used in Wikiversity as Learning resource. The following examples are created with [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe/index.html).
+
 ![AFrame Example](images/water_molecule_aframe.png)
+
+The following example shows a screenshot with a Marker in the camera image and the mixed reality with the 3D water molecule. 
+
 ![AR.js Kanji Marker Example](images/water_molecule_kanji.png)
 
 ## Molecule Models
