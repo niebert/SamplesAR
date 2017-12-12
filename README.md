@@ -1,7 +1,8 @@
 # SamplesAR
 This repository contains AFrame and AR.js examples used in Wikiversity as Learning resource
 ![AFrame Example](images/water_molecule_aframe.png)
-![AFrame Example](images/water_molecule_kanji.png)
+![AR.js Kanji Marker Example](images/water_molecule_kanji.png)
+
 ## Molecule Models
 Molecule Models can be turn and viewed from all sides. With AR.js you need to place the specified marker in the camera image
 * [Molecule Model Water - AFrame 3D Model](https://niebert.github.io/SampleAR/water_aframe.html) create with [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe/index.html) this 3D-Model does not need mobile phone camera or marker to viewing the 3D model.
