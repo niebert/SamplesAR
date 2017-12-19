@@ -26,3 +26,7 @@ This repository provides a sample image source for the Panorama photo stitcher -
 * [Hugin](http://hugin.sourceforge.net/download/) Create 360 Degree images
 * [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe/index.html)
 * [Blender](https://www.blender.org/) for more complex 3D images.
+
+## Wikiversity 
+* [3D Modelling Learning Resource in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
+*  [Augmented Reality with AR.js in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling/Create_3D_Models/AR.js)
