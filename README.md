@@ -1,11 +1,11 @@
 # SamplesAR
 This repository contains AFrame and AR.js examples used in Wikiversity as Learning resource. The following examples are created with [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe/index.html).
 
-![AFrame Example](images/water_molecule_aframe.png)
+![AFrame Example](docs/img/water_molecule_aframe.png)
 
-The following example shows a screenshot with a Marker in the camera image and the mixed reality with the 3D water molecule. 
+The following example shows a screenshot with a Marker in the camera image and the mixed reality with the 3D water molecule.
 
-![AR.js Kanji Marker Example](images/water_molecule_kanji.png)
+![AR.js Kanji Marker Example](docs/img/water_molecule_kanji.png)
 
 ## Molecule Models
 Molecule Models can be turn and viewed from all sides. With AR.js you need to place the specified marker in the camera image
@@ -27,6 +27,6 @@ This repository provides a sample image source for the Panorama photo stitcher -
 * [JSON3D4Aframe](https://niebert.github.io/JSON3D4Aframe/index.html)
 * [Blender](https://www.blender.org/) for more complex 3D images.
 
-## Wikiversity 
+## Wikiversity
 * [3D Modelling Learning Resource in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling)
 *  [Augmented Reality with AR.js in Wikiversity](https://en.wikiversity.org/wiki/3D_Modelling/Create_3D_Models/AR.js)
